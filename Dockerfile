@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2016 Tozny, LLC
 
-FROM tozny/docker-java
+FROM tozny/java
 
 # Set up environment
 ENV SBT_VERSION 0.13.11
